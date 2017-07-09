@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.sharma.test.HomePageTest"/>
+      <class name="com.sharma.test.SearchPageResultsTest"/>
+      <class name="com.sharma.test.SearchPageTest"/>
+      <class name="com.sharma.test.DragAndDrop"/>
+      <class name="com.sharma.test.AmazonHomePageTest"/>
+      <class name="com.sharma.test.FirstWebDriverTest"/>
+      <class name="com.sharma.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
